@@ -1,0 +1,7 @@
+name: AntiCreeper
+version: '${project.version}'
+author: 'J0RQY'
+website: 'https://github.com/J0RQY'
+main: me.j0rqy.anticreeper.anticreeper.AntiCreeper
+api-version: '1.20'
+load: STARTUP
